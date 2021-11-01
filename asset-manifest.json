@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hh-swp-monster-thingies/static/css/main.b5190f19.chunk.css",
+    "main.js": "/hh-swp-monster-thingies/static/js/main.756489f6.chunk.js",
+    "main.js.map": "/hh-swp-monster-thingies/static/js/main.756489f6.chunk.js.map",
+    "runtime-main.js": "/hh-swp-monster-thingies/static/js/runtime-main.1773dfef.js",
+    "runtime-main.js.map": "/hh-swp-monster-thingies/static/js/runtime-main.1773dfef.js.map",
+    "static/js/2.6d7c2636.chunk.js": "/hh-swp-monster-thingies/static/js/2.6d7c2636.chunk.js",
+    "static/js/2.6d7c2636.chunk.js.map": "/hh-swp-monster-thingies/static/js/2.6d7c2636.chunk.js.map",
+    "static/js/3.7b3bd7ec.chunk.js": "/hh-swp-monster-thingies/static/js/3.7b3bd7ec.chunk.js",
+    "static/js/3.7b3bd7ec.chunk.js.map": "/hh-swp-monster-thingies/static/js/3.7b3bd7ec.chunk.js.map",
+    "index.html": "/hh-swp-monster-thingies/index.html",
+    "static/css/main.b5190f19.chunk.css.map": "/hh-swp-monster-thingies/static/css/main.b5190f19.chunk.css.map",
+    "static/js/2.6d7c2636.chunk.js.LICENSE.txt": "/hh-swp-monster-thingies/static/js/2.6d7c2636.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1773dfef.js",
+    "static/js/2.6d7c2636.chunk.js",
+    "static/css/main.b5190f19.chunk.css",
+    "static/js/main.756489f6.chunk.js"
+  ]
+}
