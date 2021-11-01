@@ -20,8 +20,11 @@ function App() {
   });
   return (
     <div className="App">
-      <SearchBox placeholder="Search monsters" handleChange={inputChange} />
-      <CardList monster={filteredMonsters}></CardList>
+      <div className="back-ground">
+        <h1>Monster Rolodex</h1>
+        <SearchBox placeholder="Search monsters" handleChange={inputChange} />
+        <CardList monster={filteredMonsters}></CardList>
+      </div>
     </div>
   );
 }
